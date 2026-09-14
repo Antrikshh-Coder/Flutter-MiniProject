@@ -1,0 +1,170 @@
+import '../models/product.dart';
+
+class ProductData {
+  static final List<Product> products = [
+    Product(
+      id: 1,
+      name: 'AirWave Pro Wireless Headphones',
+      category: 'Electronics',
+      price: 2499.0,
+      oldPrice: 3499.0,
+      image: 'assets/images/headphones.png',
+      description:
+          'Immerse yourself in crystal clear audio with high-definition drivers, deep bass, and 30-hour battery life. Features active noise cancellation and ultra-comfortable ear cushions for extended listening sessions.',
+      rating: 4.7,
+      reviewCount: 324,
+      inStock: true,
+    ),
+    Product(
+      id: 2,
+      name: 'NovaFit Smart Watch',
+      category: 'Electronics',
+      price: 3999.0,
+      oldPrice: 5499.0,
+      image: 'assets/images/smartwatch.png',
+      description:
+          'Track your fitness, heart rate, sleep quality, and outdoor workouts with vibrant AMOLED display and custom watch faces. Water resistant up to 50 meters with 7-day battery endurance.',
+      rating: 4.6,
+      reviewCount: 218,
+      inStock: true,
+    ),
+    Product(
+      id: 3,
+      name: 'PixelMax Smartphone',
+      category: 'Electronics',
+      price: 24999.0,
+      oldPrice: 29999.0,
+      image: 'assets/images/smartphone.png',
+      description:
+          'Next-generation 5G smartphone equipped with 120Hz Fluid Display, AI Quad-camera system (64MP main), 8GB RAM, 128GB storage, and 67W Turbo charging support.',
+      rating: 4.8,
+      reviewCount: 612,
+      inStock: true,
+    ),
+    Product(
+      id: 4,
+      name: 'ProBook Air Laptop',
+      category: 'Electronics',
+      price: 59999.0,
+      oldPrice: 69999.0,
+      image: 'assets/images/laptop.png',
+      description:
+          'Powerful ultra-thin laptop powered by high-speed Octa-Core processor, 16GB DDR5 RAM, 512GB NVMe SSD, and 15.6" Full HD IPS anti-glare display with backlit keyboard.',
+      rating: 4.8,
+      reviewCount: 451,
+      inStock: true,
+    ),
+    Product(
+      id: 5,
+      name: 'RunFlex Sports Shoes',
+      category: 'Fashion',
+      price: 2199.0,
+      oldPrice: 3199.0,
+      image: 'assets/images/running_shoes.png',
+      description:
+          'Lightweight and breathable mesh running shoes designed for ultimate comfort and high impact absorption. Durable rubber outsole offers superior grip on road and track surfaces.',
+      rating: 4.5,
+      reviewCount: 186,
+      inStock: true,
+    ),
+    Product(
+      id: 6,
+      name: 'UrbanPack Backpack',
+      category: 'Accessories',
+      price: 1599.0,
+      oldPrice: 2299.0,
+      image: 'assets/images/backpack.png',
+      description:
+          'Ergonomic multi-compartment backpack crafted from water-resistant polyester fabric. Fits up to 15.6" laptops with dedicated padded sleeve, bottle holders, and anti-theft back pocket.',
+      rating: 4.4,
+      reviewCount: 143,
+      inStock: true,
+    ),
+    Product(
+      id: 7,
+      name: 'Classic Vision Sunglasses',
+      category: 'Accessories',
+      price: 999.0,
+      oldPrice: 1499.0,
+      image: 'assets/images/sunglasses.png',
+      description:
+          'Classic polarized UV400 protection sunglasses with ultra-lightweight alloy metal frame. Prevents glare and delivers superior optical clarity for outdoor activities and daily style.',
+      rating: 4.5,
+      reviewCount: 201,
+      inStock: true,
+    ),
+    Product(
+      id: 8,
+      name: 'BoomBox Mini Speaker',
+      category: 'Electronics',
+      price: 1899.0,
+      oldPrice: 2699.0,
+      image: 'assets/images/speaker.png',
+      description:
+          'Compact portable Bluetooth speaker with 360-degree surround sound, punchy bass, and IPX7 waterproof rating. Enjoy up to 12 hours of non-stop wireless music playback on a single charge.',
+      rating: 4.6,
+      reviewCount: 287,
+      inStock: true,
+    ),
+    Product(
+      id: 9,
+      name: 'Essential Cotton T-Shirt',
+      category: 'Fashion',
+      price: 799.0,
+      oldPrice: 1199.0,
+      image: 'assets/images/tshirt.png',
+      description:
+          '100% combed organic cotton crewneck T-shirt. Exceptionally soft, durable, pre-shrunk fabric tailored for a modern relaxed fit. Perfect choice for everyday casual wear.',
+      rating: 4.4,
+      reviewCount: 174,
+      inStock: true,
+    ),
+    Product(
+      id: 10,
+      name: 'AuraDesk Table Lamp',
+      category: 'Home & Living',
+      price: 1299.0,
+      oldPrice: 1899.0,
+      image: 'assets/images/table_lamp.png',
+      description:
+          'Modern minimalist LED table lamp with eye-caring soft light, touch controls, and 3 color temperature modes. Flexible gooseneck arm allows easy angle adjustment for study or bedside reading.',
+      rating: 4.5,
+      reviewCount: 98,
+      inStock: true,
+    ),
+    Product(
+      id: 11,
+      name: 'AirBeat Wireless Earbuds',
+      category: 'Electronics',
+      price: 1799.0,
+      oldPrice: 2499.0,
+      image: 'assets/images/earbuds.png',
+      description:
+          'True wireless earbuds with touch controls, low-latency gaming mode, dual microphones for clear calls, and compact fast-charging case delivering 24 total playback hours.',
+      rating: 4.6,
+      reviewCount: 329,
+      inStock: true,
+    ),
+    Product(
+      id: 12,
+      name: 'MechaPro Gaming Keyboard',
+      category: 'Electronics',
+      price: 2299.0,
+      oldPrice: 3299.0,
+      image: 'assets/images/keyboard.png',
+      description:
+          'Tactile mechanical gaming keyboard with RGB backlighting, custom hot-swappable switches, durable aluminum top plate, and anti-ghosting keys for professional gaming responsiveness.',
+      rating: 4.7,
+      reviewCount: 247,
+      inStock: true,
+    ),
+  ];
+
+  static List<String> categories = [
+    'All',
+    'Electronics',
+    'Fashion',
+    'Accessories',
+    'Home & Living',
+  ];
+}
