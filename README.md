@@ -192,13 +192,6 @@ flutter run -d chrome
 
 ---
 
-## 🔮 Future Scope
-
-- Integration with REST APIs and Node.js/Firebase backend.
-- User authentication and profile management.
-- Real payment gateway integration (Razorpay / Stripe).
-- Persistent cart storage using local storage / Hive.
-- Order history tracking page.
 
 ---
 
