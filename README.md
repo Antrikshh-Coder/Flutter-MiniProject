@@ -80,19 +80,28 @@ Home (Cart Reset)
 ## 🖼️ Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/home.png)
+<img width="3420" height="2224" alt="image" src="https://github.com/user-attachments/assets/f1ba16c1-ceba-4b6e-a7dc-71e08ca0dac3" />
+<img width="3420" height="2224" alt="image" src="https://github.com/user-attachments/assets/6ec26991-5476-4aef-8220-024fff094b15" />
+<img width="1710" height="1112" alt="Screenshot 2026-09-15 at 4 28 49 AM" src="https://github.com/user-attachments/assets/5f23b3e9-d017-47fd-aa55-bb06c62c7e6d" />
+<img width="3420" height="2224" alt="image" src="https://github.com/user-attachments/assets/548f2413-0c80-4b3c-b5e8-764e0d168e49" />
+
 
 ### Product Details
-![Product Details](screenshots/product_details.png)
+<img width="3420" height="2224" alt="image" src="https://github.com/user-attachments/assets/c93ffaa7-6f79-4ab4-a3dc-24dc692b2909" />
+
+
 
 ### Cart
-![Cart](screenshots/cart.png)
+<img width="3420" height="2224" alt="image" src="https://github.com/user-attachments/assets/b2b3a074-d767-4513-9fad-3c80a7ef1251" />
 
-### Checkout
-![Checkout](screenshots/checkout.png)
+
+### Form
+<img width="3420" height="2224" alt="image" src="https://github.com/user-attachments/assets/05acb697-87f2-4e9d-b25e-04563a0dd728" />
+
 
 ### Order Confirmation
-![Confirmation](screenshots/confirmation.png)
+<img width="3420" height="2224" alt="image" src="https://github.com/user-attachments/assets/14812bc9-7b93-4bb4-985f-7707e3f92da5" />
+
 
 ---
 
