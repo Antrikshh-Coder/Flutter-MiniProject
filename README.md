@@ -193,8 +193,3 @@ flutter run -d chrome
 
 ---
 
-## 👨‍💻 Developer / Team
-
-- **Project**: University 20-Mark Flutter Mini Project
-- **Course**: Mobile Application Development (Flutter)
-- **App Name**: ShopEase – E-Commerce Shopping Cart App
